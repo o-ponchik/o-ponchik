@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi👋  I`m Mariia, a Web Developer 👩‍💻</div>  
+### <div align="center">Hi👋  I`m Maria, a Web Developer 👩‍💻</div>  
   
 
 - 🔭 I’m currently working on [Ecommerce](https://github.com/o-ponchik/Ecommerce).  
