@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Ecommerce](https://github.com/o-ponchik/Ecommerce).  
   
 
-- 🌱 As a continual learner, I'm currently mastering the art of React.  
+- 🌱 As a continual learner, I'm currently mastering the art of Next.js.  
   
 
 - ⚡ I'm on a quest to find my next big adventure in the web development world.  
